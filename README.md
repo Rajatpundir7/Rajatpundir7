@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/Rajatpundir07">
-    <img src="https://komarev.com/ghpvc/?username=Rajatpundir07&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge&logo=GitHub&logoColor=white&labelColor=0A2540" alt="Profile Views" />
+  <a href="https://github.com/rajatpundir7">
+    <img src="https://komarev.com/ghpvc/?username=rajatpundir7&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge&logo=GitHub&logoColor=white&labelColor=0A2540" alt="Profile Views" />
   </a>
   
   <h1>👋 Hi, I'm Rajat Pundir</h1>
@@ -50,25 +50,25 @@
 *Dec 2025 – Jan 2026*  
 **Tech:** Computer Vision • NLP • LLMs • RAG • GNN • FastAPI + Django • MongoDB  
 Multimodal disease detection across **45+ crops** using 7 DL models + multilingual AI assistant (8+ languages).  
-[**GitHub**](https://github.com/Rajatpundir07/kisanji)
+[**GitHub**](https://github.com/Rajatpundir7/kisanji)
 
 **🚦 Smart Traffic Management — Deep Reinforcement Learning System**  
 *Aug 2025 – Nov 2025*  
 **Tech:** DQN • TensorFlow • OpenCV • Gymnasium  
 40% reduction in wait time with real-time CCTV pipeline and custom simulation environment.  
-[**GitHub**](https://github.com/Rajatpundir07/Smart-Traffic-Management-Systern-for-Urban-Congestion)
+[**GitHub**](https://github.com/Rajatpundir7/Smart-Traffic-Management-Systern-for-Urban-Congestion)
 
 **💰 Smart Product Pricing Engine — Multimodal ML Pipeline**  
 *Oct 2025 – Nov 2025*  
 **Tech:** TF-IDF • Sentence Transformers • CNN • XGBoost + LightGBM  
 Ranked **Top ~2%** in Amazon ML Challenge 2025 (53.63 SMAPE).  
-[**GitHub**](https://github.com/Rajatpundir07/amazon-ml-challanges-)
+[**GitHub**](https://github.com/Rajatpundir7/amazon-ml-challanges-)
 
 **📝 QuizEra — Scalable Full-Stack Platform**  
 *Mar 2025 – May 2025*  
 **Tech:** Java • JDBC • MySQL  
 Handled 100+ concurrent users with 85% reduction in manual scoring.  
-[**GitHub**](https://github.com/Rajatpundir07/QuizEra)
+[**GitHub**](https://github.com/Rajatpundir7/QuizEra)
 
 ---
 
@@ -76,8 +76,8 @@ Handled 100+ concurrent users with 85% reduction in manual scoring.
 
 <div align="center">
 
-| Badge | Achievement |
-|-------|-------------|
+| Icon | Achievement |
+|------|-------------|
 | 🏅 | **Patent Filed (India)** — Adaptive Multi-Agent Traffic Control System using GNN, RL & CV (App. No. **202511132246 A**) — Feb 2026 |
 | 📄 | **IEEE Research Paper** — 1st Place: *"AI-Based Traffic Control: GNN-DRL with Computer Vision & Multi-Agent Coordination"* — Oct 2025 |
 | 🏆 | **Hackathon Finalist & Team Leader** — Square Hack, IIT Delhi (Top 20 of 700+ teams) — Dec 2025 |
@@ -95,7 +95,7 @@ Graphic Era Hill University | Aug 2023 – May 2027 | **CGPA: 8.56/10**
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications (Direct Links)
 
 - **[Generative AI and Large Language Models — IBM (2025)](https://drive.google.com/file/d/1_4-imZ19cWpaF4k0FiRWIHINc_A9IE5T/view)**
 - **[Foundation Models for NLP — IBM (2025)](https://drive.google.com/file/d/1tRv0lpa1NgrzPDT6x3ZthL2wTevy-Un4/view)**
@@ -107,17 +107,17 @@ Graphic Era Hill University | Aug 2023 – May 2027 | **CGPA: 8.56/10**
 ### 📊 Live GitHub Analytics (Real-Time)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajatpundir07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatpundir07&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatpundir7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatpundir7&theme=tokyonight&hide_border=true" height="195" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/?username=Rajatpundir07&theme=tokyonight&hide_border=true&radius=20" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/?username=rajatpundir7&theme=tokyonight&hide_border=true&radius=20" width="100%" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatpundir07&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatpundir7&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajatpundir07&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=rajatpundir7&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 ---
 
@@ -143,7 +143,7 @@ Graphic Era Hill University | Aug 2023 – May 2027 | **CGPA: 8.56/10**
 
 <p align="center">
   <a href="https://linkedin.com/in/rajat-pundir-b7556b298"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Rajatpundir07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/rajatpundir7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/rajatpundir07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:rajatpundir07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -157,4 +157,4 @@ Graphic Era Hill University | Aug 2023 – May 2027 | **CGPA: 8.56/10**
 
 ---
 
-*Last updated: March 2026 • Crafted with ❤️ *
+*Last updated: March 2026 • Crafted with ❤️ for AI*
